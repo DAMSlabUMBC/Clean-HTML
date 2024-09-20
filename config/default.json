@@ -1,0 +1,8 @@
+{
+    "remove_comments": "true",
+    "remove_attributes": "true",
+    "unwanted_tags": [
+        "meta", "script", "style", "link", "form", "input", 
+        "button","select", "textarea", "img", "video", "audio"
+    ]
+}
