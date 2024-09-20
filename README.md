@@ -5,7 +5,7 @@ we query LLMs with lower cost.
 
 #### How to use
 usage: `python html_cleaner.py [-h] [--configuration CONFIGURATION] html_file_folder clean_html_file_folder`
-
+```
 positional arguments:
   html_file_folder        filepath to html
   clean_html_file_folder  filepath to cleaned html
@@ -13,6 +13,7 @@ positional arguments:
 options:
   -h, --help                     show this help message and exit
   --configuration CONFIGURATION  path to json configuration file
+```
 
 Required packages in are requirements.txt
 
